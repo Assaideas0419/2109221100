@@ -1,6 +1,6 @@
 # 2109221100
 
-#第一周
+# 第一周
 
 My first code programme
 ```c
