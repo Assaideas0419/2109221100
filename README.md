@@ -1,6 +1,6 @@
 # 2109221100
 
-# 第一周
+# 第二周
 
 My code programme
 ```c
@@ -10,7 +10,7 @@ int main ()
     printf("Hello World\n");
 }
 ```
-# 第二周
+# 第三周
 ```c
 #include <stdio.h>
 int main
